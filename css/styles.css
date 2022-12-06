@@ -1,0 +1,22 @@
+body {
+  background: rgb(252, 252, 149);
+}
+h1,
+p,
+a {
+  text-align: center;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.photo {
+  border-radius: 15px;
+}
+.pages {
+  text-align: center;
+}
+.pages a {
+  margin-right: 20px;
+}
