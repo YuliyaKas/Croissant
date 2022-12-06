@@ -20,3 +20,6 @@ a {
 .pages a {
   margin-right: 20px;
 }
+.pages a:last-child {
+  margin: 0;
+}
