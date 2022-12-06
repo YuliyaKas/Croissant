@@ -13,12 +13,16 @@ a {
 }
 .photo {
   border-radius: 15px;
+  max-width: 100%;
+  display: block;
+  margin: 30px auto;
 }
 .pages {
   text-align: center;
 }
 .pages a {
   margin-right: 20px;
+  color: green;
 }
 .pages a:last-child {
   margin: 0;
